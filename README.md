@@ -6,7 +6,7 @@ Este projeto foi criado com o objetivo de **praticar e aprimorar minhas habilida
 ## ✨ Funcionalidades  
 ✅ **Busca de Pokémon** pelo nome ou número  
 ✅ **Navegação entre Pokémon** com botões "Prev" e "Next"  
-✅ **Imagens animadas** da **Geração V**  
+✅ **Imagens animadas**
 ✅ **Interface estilizada** inspirada na Pokédex  
 
 ## 🚀 Tecnologias utilizadas  
